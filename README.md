@@ -1,4 +1,4 @@
-# Optiver-Trading at the close
+# Kaggle Competition: Optiver-Trading at the close
 **Sliver Medal Solution:**
 
 This is the code repo for Kaggle competition: Optiver-Trading at the close.
