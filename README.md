@@ -1,4 +1,6 @@
 # Optiver-Trading at the close
+**Sliver Medal Solution:**
+
 This is the code repo for Kaggle competition: Optiver-Trading at the close.
 
 There are 4 versions in this repo, that is, baseline, ver1, ver2 and ver3.
